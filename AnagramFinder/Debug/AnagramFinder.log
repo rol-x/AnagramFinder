@@ -1,0 +1,7 @@
+﻿  AnagramFinder.cpp
+  AnagramSolver.cpp
+c:\users\charles0\documents\csharpprojects\anagramfinder\anagramfinder\anagramsolver.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  DataLoader.cpp
+  Program.cpp
+  Generating Code...
+  AnagramFinder.vcxproj -> C:\Users\charles0\Documents\CSharpProjects\AnagramFinder\Debug\AnagramFinder.exe
