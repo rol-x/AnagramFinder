@@ -4,8 +4,8 @@
 
 using namespace std;
 
-class AnagramSolver
-{
+class AnagramSolver							//this class holds a dictionary in a string vector, letters count in two words - in two int arrays
+{											//and checks whether two compared words (firstLetters and secondLetters) are anagrams
 	int firstLetters[26];					//two empty arrays to hold the letters count in each word
 	int secondLetters[26];
 	
