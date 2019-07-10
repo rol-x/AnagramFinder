@@ -16,3 +16,4 @@
 
 .gitattributes  export-ignore
 .gitignore      export-ignore
+AnagramFinder.git/* linguist-vendored=true
